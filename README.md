@@ -34,6 +34,7 @@ Ensure these dependencies are installed via the `requirements.txt` file accordin
 [Watch the screen recording](./screen_recording.mp4)
 ![Demo Image](demo/image1.png)
 ![Demo Image](demo/image2.png)
+![Demo Image](demo/image.png)
 ## How to Run
 
 Follow the steps below to set up and run the application:
