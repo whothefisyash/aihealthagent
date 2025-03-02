@@ -1,4 +1,4 @@
-# AI Health & Fitness Planner Agent 🏋️‍♂️
+# AI Health & Fitness Planner Agent 
 
 The **AI Health & Fitness Planner** is a personalized health and fitness Agent powered by Phidata's AI Agent framework. This app generates tailored dietary and fitness plans based on user inputs such as age, weight, height, activity level, dietary preferences, and fitness goals.
 
