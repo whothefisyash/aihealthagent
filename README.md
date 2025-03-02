@@ -30,6 +30,9 @@ The application requires the following Python libraries:
 
 Ensure these dependencies are installed via the `requirements.txt` file according to their mentioned versions
 
+## Demo
+[Watch the screen recording](./screen_recording.mp4)
+
 ## How to Run
 
 Follow the steps below to set up and run the application:
